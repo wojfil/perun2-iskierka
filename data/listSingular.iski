@@ -1,0 +1,19 @@
+
+
+#listSingular
+_collectionSingular
+_collectionSingular
+
+listSingular
+_collectionSingular _attributeFollowing
+_collectionSingular where _attributeFollowing
+
+listSingular
+_attributePreceding _collectionSingular _attributeFollowing
+_collectionSingular where _attributePreceding and _attributeFollowing
+
+#listSingular
+_attributePreceding _collectionSingular
+_collectionSingular where _attributePreceding
+
+

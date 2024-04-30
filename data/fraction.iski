@@ -1,0 +1,50 @@
+
+
+
+#fraction weight 99
+_int2to99 percent
+(0.01 * _int2to99)
+
+#fraction
+one percent
+0.01
+
+#fraction
+zero percent
+0
+
+#fraction
+one hundred percent
+1
+
+
+
+#fraction weight 20
+half
+0.5
+
+#fraction
+quarter
+0.25
+
+#fraction
+one quarter
+0.25
+
+#fraction
+two quarters
+0.5
+
+#fraction
+three quarters
+0.75
+
+#fraction
+one third
+0.333333334
+
+#fraction
+two thirds
+0.666666667
+
+

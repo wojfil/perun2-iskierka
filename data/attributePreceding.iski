@@ -1,0 +1,23 @@
+
+
+
+
+#attributePreceding weight 2
+today
+creation = today
+
+#attributePreceding
+yesterday
+creation = yesterday
+
+#attributePreceding
+_optionalNot empty
+_optionalNot empty
+
+#attributePreceding
+_optionalNot hidden
+_optionalNot hidden
+
+
+
+

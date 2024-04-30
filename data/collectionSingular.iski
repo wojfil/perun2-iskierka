@@ -1,0 +1,57 @@
+
+
+
+
+
+#collectionSingular
+file
+files
+
+#collectionSingular
+directory
+directories
+
+#collectionSingular
+folder
+directories
+
+#collectionSingular
+image _optionalFile
+images
+
+#collectionSingular
+picture _optionalFile
+images
+
+#collectionSingular
+photo _optionalFile
+photos
+
+#collectionSingular
+video _optionalFile
+videos
+
+#collectionSingular
+movie _optionalFile
+videos
+
+#collectionSingular
+archive _optionalFile
+archives
+
+#collectionSingular
+audio _optionalFile
+audios
+
+#collectionSingular
+music file
+audios
+
+#collectionSingular
+document _optionalFile
+documents
+
+
+
+
+

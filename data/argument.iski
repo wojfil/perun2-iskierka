@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+
+
+
+#argument weight 3
+_list
+_list
+
+
+#argument
+_listSingular
+_listSingular limit 1
+
+
+#argument
+_numberOfFiles _optionalOf _list
+_list limit _numberOfFiles
+
+
+#argument
+at most _numberOfFiles _list
+_list limit _numberOfFiles
+
+#argument
+_numberOfFiles _list and not a single one more
+_list limit _numberOfFiles
+
+
+#argument
+_order _listSingular
+_listSingular order by _order limit 1
+
+
+#argument
+_optionalTop _numberOfFiles _order _list
+_list order by _order limit _numberOfFiles
+
+
+#argument
+_fraction of _order _list
+_list order by _order limit _fraction * count(_list)
+
+
+

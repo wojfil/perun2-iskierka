@@ -1,0 +1,53 @@
+
+#commandVerb
+select
+select
+
+#commandVerb
+give me
+select
+
+#commandVerb
+give
+select
+
+#commandVerb
+show me
+select
+
+#commandVerb
+show
+select
+
+#commandVerb
+choose
+select
+
+#commandVerb
+pick
+select
+
+#commandVerb
+take
+select
+
+#commandVerb weight 3
+print
+print
+
+
+#commandVerb weight 4
+open
+open
+
+
+#commandVerb
+delete
+delete
+
+#commandVerb weight 2
+remove
+delete
+
+
+

@@ -1,0 +1,395 @@
+
+This is a probability distribution for small numbers.
+
+
+#int2to99 weight 10
+two
+2
+
+#int2to99 weight 10
+three
+3
+
+#int2to99 weight 9
+four
+4
+
+#int2to99 weight 10
+five
+5
+
+#int2to99 weight 7
+six
+6
+
+#int2to99 weight 7
+seven
+7
+
+#int2to99 weight 6
+eight
+8
+
+#int2to99 weight 6
+nine
+9
+
+#int2to99 weight 10
+ten
+10
+
+#int2to99 weight 3
+eleven
+11
+
+#int2to99 weight 3
+twelve
+12
+
+#int2to99 weight 3
+thirteen
+13
+
+#int2to99 weight 3
+fourteen
+14
+
+#int2to99 weight 8
+fifteen
+15
+
+#int2to99 weight 2
+sixteen
+16
+
+#int2to99 weight 2
+seventeen
+17
+
+#int2to99 weight 2
+eighteen
+18
+
+#int2to99 weight 2
+nineteen
+19
+
+#int2to99 weight 10
+twenty
+20
+
+#int2to99
+twenty-one
+21
+
+#int2to99
+twenty-two
+22
+
+#int2to99
+twenty-three
+23
+
+#int2to99
+twenty-four
+24
+
+#int2to99 weight 10
+twenty-five
+25
+
+#int2to99
+twenty-six
+26
+
+#int2to99
+twenty-seven
+27
+
+#int2to99
+twenty-eight
+28
+
+#int2to99
+twenty-nine
+29
+
+#int2to99 weight 8
+thirty
+30
+
+#int2to99
+thirty-one
+31
+
+#int2to99
+thirty-two
+32
+
+#int2to99 weight 5
+thirty-three
+33
+
+#int2to99
+thirty-four
+34
+
+#int2to99 weight 4
+thirty-five
+35
+
+#int2to99
+thirty-six
+36
+
+#int2to99
+thirty-seven
+37
+
+#int2to99
+thirty-eight
+38
+
+#int2to99
+thirty-nine
+39
+
+#int2to99 weight 8
+forty
+40
+
+#int2to99
+forty-one
+41
+
+#int2to99
+forty-two
+42
+
+#int2to99
+forty-three
+43
+
+#int2to99
+forty-four
+44
+
+#int2to99 weight 4
+forty-five
+45
+
+#int2to99
+forty-six
+46
+
+#int2to99
+forty-seven
+47
+
+#int2to99
+forty-eight
+48
+
+#int2to99
+forty-nine
+49
+
+#int2to99 weight 10
+fifty
+50
+
+#int2to99
+fifty-one
+51
+
+#int2to99
+fifty-two
+52
+
+#int2to99
+fifty-three
+53
+
+#int2to99
+fifty-four
+54
+
+#int2to99 weight 4
+fifty-five
+55
+
+#int2to99
+fifty-six
+56
+
+#int2to99
+fifty-seven
+57
+
+#int2to99
+fifty-eight
+58
+
+#int2to99
+fifty-nine
+59
+
+#int2to99 weight 8
+sixty
+60
+
+#int2to99
+sixty-one
+61
+
+#int2to99
+sixty-two
+62
+
+#int2to99
+sixty-three
+63
+
+#int2to99
+sixty-four
+64
+
+#int2to99 weight 4
+sixty-five
+65
+
+#int2to99 weight 3
+sixty-six
+66
+
+#int2to99 weight 3
+sixty-seven
+67
+
+#int2to99
+sixty-eight
+68
+
+#int2to99 weight 3
+sixty-nine
+69
+
+#int2to99 weight 8
+seventy
+70
+
+#int2to99
+seventy-one
+71
+
+#int2to99
+seventy-two
+72
+
+#int2to99
+seventy-three
+73
+
+#int2to99
+seventy-four
+74
+
+#int2to99 weight 10
+seventy-five
+75
+
+#int2to99
+seventy-six
+76
+
+#int2to99
+seventy-seven
+77
+
+#int2to99
+seventy-eight
+78
+
+#int2to99
+seventy-nine
+79
+
+#int2to99 weight 8
+eighty
+80
+
+#int2to99
+eighty-one
+81
+
+#int2to99
+eighty-two
+82
+
+#int2to99
+eighty-three
+83
+
+#int2to99
+eighty-four
+84
+
+#int2to99 weight 4
+eighty-five
+85
+
+#int2to99
+eighty-six
+86
+
+#int2to99
+eighty-seven
+87
+
+#int2to99
+eighty-eight
+88
+
+#int2to99
+eighty-nine
+89
+
+#int2to99 weight 8
+ninety
+90
+
+#int2to99
+ninety-one
+91
+
+#int2to99
+ninety-two
+92
+
+#int2to99
+ninety-three
+93
+
+#int2to99
+ninety-four
+94
+
+#int2to99 weight 4
+ninety-five
+95
+
+#int2to99
+ninety-six
+96
+
+#int2to99
+ninety-seven
+97
+
+#int2to99
+ninety-eight
+98
+
+#int2to99 weight 2
+ninety-nine
+99

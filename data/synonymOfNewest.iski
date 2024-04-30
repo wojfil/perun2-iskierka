@@ -1,0 +1,20 @@
+
+We look for the newest file in terms of modification time.
+
+
+#synonymOfNewest weight 3
+last
+##empty
+
+#synonymOfNewest
+newest
+##empty
+
+#synonymOfNewest
+freshest
+##empty
+
+#synonymOfNewest
+recent
+##empty
+

@@ -1,0 +1,15 @@
+
+We look for the biggest file in terms of size.
+
+
+#synonymOfBiggest weight 3
+biggest
+##empty
+
+#synonymOfBiggest
+largest
+##empty
+
+#synonymOfBiggest
+heaviest
+##empty

@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+
+
+
+#command weight 30
+_argument
+select _argument
+
+#command weight 10
+_commandVerb _argument
+_commandVerb _argument
+
+
+
+command weight 4
+_commandVerb _pathConstAdjective _argument
+inside _pathConstAdjective { _commandVerb _argument }
+
+command weight 4
+_insidePreposition _pathConst _argument
+_insidePreposition _pathConst { select _argument }
+
+command weight 4
+_insidePreposition _pathConst _commandVerb _argument
+_insidePreposition _pathConst { _commandVerb _argument }
+
+
+
+
+

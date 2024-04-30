@@ -1,0 +1,32 @@
+
+
+
+#list weight 4
+_collection
+_collection
+
+#list weight 4
+_collection _attributeFollowing
+_collection where _attributeFollowing
+
+#list weight 4
+_attributePreceding _collection _attributeFollowing
+_collection where _attributePreceding and _attributeFollowing
+
+#list weight 4
+_attributePreceding _collection
+_collection where _attributePreceding
+
+
+
+
+
+
+#list
+_container with _collection
+_container where anyInside(_collection)
+
+#list
+_container with at least _int2to99 _collection
+_container where countInside(_collection) >= _int2to99
+

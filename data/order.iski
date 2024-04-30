@@ -1,0 +1,23 @@
+
+
+
+
+#order
+_synonymOfNewest
+modification desc
+
+#order
+_synonymOfOldest
+modification asc
+
+#order
+_synonymOfBiggest
+size desc
+
+#order
+_synonymOfSmallest
+size asc
+
+
+
+
