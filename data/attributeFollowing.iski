@@ -1,9 +1,17 @@
 
 
 
-#attributeFollowing weight 2
+#attributeFollowing
 older than _lifetimePeriod
 lifetime > _lifetimePeriod
 
 
+#attributeFollowing
+_timeAttribute before _hour
+_timeAttribute.hour < _hour
+
+
+#attributeFollowing
+_timeAttribute after _hour
+_timeAttribute.hour > _hour
 
