@@ -1,11 +1,11 @@
 
 
 #optionalFile weight 3
-##empty
-##empty
+__nothing
+__nothing
 
 #optionalFile
 file
-##empty
+__nothing
 
 

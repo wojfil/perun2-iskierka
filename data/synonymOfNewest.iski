@@ -4,17 +4,17 @@ We look for the newest file in terms of modification time.
 
 #synonymOfNewest weight 3
 last
-##empty
+__nothing
 
 #synonymOfNewest
 newest
-##empty
+__nothing
 
 #synonymOfNewest
 freshest
-##empty
+__nothing
 
 #synonymOfNewest
 recent
-##empty
+__nothing
 
