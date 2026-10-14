@@ -28,7 +28,7 @@ at most _numberOfFiles _list
 _list limit _numberOfFiles
 
 #argument
-_numberOfFiles _list and not a single one more
+_numberOfFiles _list
 _list limit _numberOfFiles
 
 

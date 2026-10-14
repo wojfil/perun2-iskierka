@@ -8,15 +8,11 @@ give me
 select
 
 #commandVerb
-give
-select
-
-#commandVerb
 show me
 select
 
 #commandVerb
-show
+show me
 select
 
 #commandVerb
@@ -30,11 +26,6 @@ select
 #commandVerb
 take
 select
-
-#commandVerb weight 3
-print
-print
-
 
 #commandVerb weight 4
 open
