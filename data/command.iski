@@ -20,11 +20,11 @@ _commandVerb _argument
 
 #command weight 4
 _insidePreposition _pathConst _commandVerb _argument
-_insidePreposition _pathConst { _commandVerb _argument }
+inside _pathConst { _commandVerb _argument }
 
 #command weight 4
 _commandVerb _argument _insidePreposition _pathConst 
-_insidePreposition _pathConst { _commandVerb _argument }
+inside _pathConst { _commandVerb _argument }
 
 
 
